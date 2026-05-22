@@ -1,11 +1,14 @@
-## Hi there 👋
+# About Me
+ Hello, my name is Dashiel Cole and I'm an A level CS student at BHASVIC. My qualifications consist of a GCSE in BHASVIC and the Computer Science award from Priory School, my alma mater. I have some experience in Blender, some in Unity (less). I can program in C, Java, Python.
+ 
+ I'm currently working on a game for my CS coursework. It's an idle fishing game with progression and upgrades. When I leave university, I'd like to work in the video game sector.
 
+ My communication skills, ability to delegate and aptitude for giving and asking for help when needed make me a good member of any team.
 <!--
-**BHASVIC-DashCole25/BHASVIC-DashCole25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+I'm currently working on a game for my CS coursework.  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
